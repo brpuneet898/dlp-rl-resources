@@ -1,6 +1,6 @@
 # DLP RL Mixed Resources
 
-In this repo, I have shared all the written solutions for DLP and RL resources used in the Quiz.
+In this repo, I have shared all the written solutions for DLP and RL resources used in the Quiz 1.
 
 1. Deep Learning Practice
     - Graded Assignments - 1 to 4 
