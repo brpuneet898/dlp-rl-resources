@@ -5,6 +5,7 @@ In this repo, I have shared all the written solutions for DLP and RL resources u
 1. Deep Learning Practice
     - Graded Assignments - 1 to 4 
     - Only 1 PYQ for Quiz 1
+    - Only 1 PYQ for Quiz 2
 
 2. Reinforcement Learning
     - Practice Assignments - 1 to 4
