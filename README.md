@@ -9,4 +9,4 @@ In this repo, I have shared all the written solutions for DLP and RL resources u
 2. Reinforcement Learning
     - Practice Assignments - 1 to 8
     - Graded Assignmnets - 1 to 8
-    - There are 3 PYQs for Quiz 1
+    - There are 3 PYQs for Quiz 1, Quiz 2
